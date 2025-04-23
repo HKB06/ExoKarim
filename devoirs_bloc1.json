@@ -1,0 +1,50 @@
+{
+    "Partie 1 : Veille économique juridique et sociale du secteur financier : Surveillance et Analyse des Dynamiques de l'Écosystème Financier": {
+        "contexte": "Les tensions commerciales entre les États-Unis et la Chine ont conduit à l'imposition de tarifs douaniers sur des centaines de milliards de dollars de marchandises sur AATTLE (Société Américaine) et YIYO (Société chinoise). Ces tensions ont des répercussions sur les marchés financiers mondiaux, y compris les actions, les obligations et les devises.",
+        "taches": "s\nAnalyser l'impact des tensions commerciales sur l'écosystème financier.\nIdentifier les opportunités et les menaces pour les investisseurs.\nÉvaluer les implications juridiques, sociales et environnementales de ces tensions.\nTâches\nVeille économique et financière : Réalisez une analyse SWOT pour évaluer l'impact des tensions commerciales sur le marché financier entre AATTLE et YIYO.\nVeille juridique : Identifiez les nouvelles réglementations ou lois qui pourraient affecter les investisseurs en raison de ces tensions.\nVeille sociale : Examinez les effets potentiels sur l'emploi, les inégalités sociales et autres aspects sociaux dans les deux pays et au niveau international.\nVeille environnementale : Analysez les implications environnementales de ces tensions, telles que les changements dans les chaînes d'approvisionnement qui pourraient affecter les émissions de carbone.\nEnoncé des outils de collecte/outils statistiques utilisés ainsi que la méthodologie utilisée pour l'analyse des indices boursiers.",
+        "criteres": "Master en Finance de Marché – Trading\nProgramme Bourse & Trading Expert : Élaboration de solutions de développement économiques (Bloc 1)",
+        "questions": []
+    },
+    "Partie 2 : Etude des marches financiers et stratégies d’investissements : Analyse des Tendances et Élaboration de Stratégies Performantes": {
+        "contexte": "Vous êtes analyste financier dans une entreprise de gestion de portefeuille (BlackRock), où vous jouez un rôle clé dans l’analyse des marchés financiers afin de fournir des recommandations d’investissement stratégiques. L’environnement économique actuel est marqué par des défis complexes :\nVolatilité élevée des marchés boursiers,\nHausse continue des taux d’intérêt,\nSignes persistants d’inflation,\nSous-performance du secteur technologique par rapport à d'autres secteurs comme l'énergie et les biens de consommation de base.\nDonnées chiffrées : (Date des données : Janvier 2024 à octobre 2024)\nDans cette étude, nous nous intéressons à l'entreprise Apple, un leader mondial dans le secteur technologique, qui développe des produits électroniques et des services. L’entreprise fait face à une évolution rapide du marché, influencée par la hausse des taux d’intérêt, les pressions inflationnistes et une forte volatilité des marchés financiers. On vous communique les informations suivantes sur Apple :\nPortefeuille initial d'Apple\nSecteurs principaux : Matériel (iPhones, Mac, etc.), Services (iCloud, App Store, Apple Music), Wearables (Apple Watch, AirPods), et Logiciels (macOS, iOS).\nPerformances passées (2023-2024) :\nActions : +15% en 2023.\nRevenus : Croissance continue dans les services (+25% par rapport à l'année précédente).\nDépenses en R&D : Investissement important dans l'IA et les technologies de réalité augmentée.\nDonnées économiques actuelles\nTaux d'intérêt (Fed) : 5.25% à 5.50% (impact sur les coûts d'emprunt et les rendements des obligations).\nInflation : 4.3% dans la zone euro et 3.4% aux États-Unis (pression sur les marges et les coûts de production).\nVolatilité des indices : S&P 500 (+8.7% sur 6 mois), NASDAQ (+4.3% sur 6 mois).\nSecteur technologique : Rendement moyen de -2% à -5% entre 2022 et 2023 en raison de la hausse des taux d’intérêt.\nDans ce contexte, vous êtes chargé(e) de mener une analyse approfondie des dynamiques de marché et de proposer des recommandations d’investissement claires et fondées pour l’entreprise Apple.",
+        "taches": "",
+        "criteres": "",
+        "questions": [
+            "Dans cette étude, nous nous intéressons à l'entreprise Apple, un leader mondial dans le secteur technologique, qui développe des produits électroniques et des services. L’entreprise fait face à une évolution rapide du marché, influencée par la hausse des taux d’intérêt, les pressions inflationnistes et une forte volatilité des marchés financiers. On vous communique les informations suivantes sur Apple :",
+            ":",
+            "Revenus : Croissance continue dans les services (+25% par rapport à l'année précédente).",
+            "Taux d'intérêt historique et impact sur les actifs (Période : 2020-2024)",
+            ":",
+            "Historique de l'inflation et impact sectoriel",
+            ": Secteur technologique : Rendement moyen -10 % (2022-2023).",
+            "Rendements sectoriels annuels (2023) :",
+            "Données Complémentaires sur les Classes d'Actifs (Période couverte : 2024 (Performance 6 mois de mai à octobre 2024))",
+            "Principales tendances sociales impactant les marchés et les investissements :",
+            ":",
+            "Événements et tendances écologiques majeurs :",
+            "Données boursières et sectorielles"
+        ]
+    },
+    "Partie 3 : Mise en place d’une stratégie de collecte et d’analyse de données (Traitement automatisé des données financières)": {
+        "contexte": "Vous travaillez en tant qu'analyste financier pour une entreprise de gestion de portefeuille.\nVotre rôle est de suivre et d'analyser les marchés financiers pour fournir des recommandations d'investissement.\nDonnées :\nLes indices boursiers ont récemment montré une forte volatilité.\nLes taux d'intérêt sont en hausse.\nIl y a des signes d'inflation dans l'économie.\nRécemment, le secteur technologique a sous-performé par rapport à d'autres secteurs comme l'énergie et les biens de consommation de base.\nTâches :\nStratégie de collecte de données :\nDéfinissez une stratégie pour collecter des données sur les prix des actions des entreprises du CAC 40.\nQuels outils ou API allez-vous utiliser pour la collecte de données ?\nNettoyage et préparation des données :\nProposez un algorithme pour nettoyer et préparer les données collectées.\nQuels indicateurs financiers (moyennes mobiles, RSI, etc.) allez-vous calculer\n?\nModèle de Prédiction :\nUtilisez des techniques statistiques ou économétriques pour créer un modèle prédictif.\nÉvaluez la performance de votre modèle en utilisant des indicateurs comme R2 ajusté, Test de Student, test de Fisher, etc.\nAutomatisation et interface utilisateur :\nDéveloppez une interface utilisateur simple qui permettra aux membres de votre équipe d'utiliser l'algorithme facilement.\nL'interface doit permettre d'exécuter des requêtes pour récupérer des données et afficher les prédictions.\nInterprétation et présentation des résultats :\nInterprétez les résultats de votre modèle.\nPréparez une présentation succincte des résultats pour votre équipe.\nModalités Evaluation\nA partir d’un cas réel ou fictif, le candidat doit traiter une masse de données fictives ou éparses, le candidat doit proposer un ou plusieurs algorithmes permettant leur consolidation et leur nettoyage.\nSur la base de données fictives ou réelles le candidat propose une ou plusieurs techniques statistiques ou économétriques afin de classifier et/ou d’expliquer un ou plusieurs phénomène(s) financier(s) ou économique(s).",
+        "taches": "",
+        "criteres": "Master en Finance de Marché – Trading\nProgramme Bourse & Trading Expert : Élaboration de solutions de développement économiques (Bloc 1)",
+        "questions": [
+            "Quels outils ou API allez-vous utiliser pour la collecte de données ?"
+        ]
+    },
+    "Partie 5 : Valorisation des instruments financiers et leurs données : évaluation précise et analyse des actifs financiers": {
+        "contexte": "",
+        "taches": "",
+        "criteres": "",
+        "questions": []
+    },
+    "Partie 6 : Conseil sur les solutions d’investissement et de placement : Recommandations stratégiques pour optimiser les portefeuilles financiers": {
+        "contexte": "Mme Dupont, investisseuse dynamique de 45 ans, cherche à diversifier son portefeuille d'investissements tout en sécurisant une partie de son capital. Son objectif est de générer des rendements réguliers et stables sur une période de 3 à 5 ans, tout en prenant en compte un profil de risque modéré. Elle dispose d’un capital de 100 000 € qu'elle souhaite investir dans un produit structuré. Votre mission est de concevoir un produit structuré qui répond à ses attentes financières, tout en intégrant des éléments de sécurité du capital et un potentiel de rendement variable, adapté à son horizon de temps et à son appétence pour le risque.\nPour vous aider à élaborer ce produit structuré, vous disposez des informations suivantes :\nProfil de l’Investisseur : Mme Dupont\nÂge : 45 ans.\nCapital disponible : 100 000 €.\nHorizon d’investissement : 3 à 5 ans.",
+        "taches": "",
+        "criteres": "",
+        "questions": [
+            "Travail à faire :"
+        ]
+    }
+}
