@@ -1,0 +1,110 @@
+{
+  "bloc_2": {
+    "intitule": "Bloc 2 : Gestion de portefeuille financier",
+    "niveau": "Master en Finance de Marché – Trading",
+    "programme": "Programme Bourse & Trading Expert",
+    "parties": [
+      {
+        "titre": "Partie 1 : Étude financière et économique",
+        "devoirs": [
+          {
+            "titre": "Devoir surveillé 1",
+            "contexte": "Apple Inc. est l'une des entreprises les plus emblématiques du secteur technologique. Fondée en 1976, la société s'est imposée comme un leader dans la conception de produits électroniques grand public et de logiciels innovants. Après plusieurs années de croissance continue, Apple cherche à diversifier ses sources de revenus et à pénétrer de nouveaux marchés, notamment en Amérique latine et aux États-Unis. Avant de prendre cette décision stratégique, la direction souhaite réaliser une analyse macro-économique afin d’évaluer les opportunités et les risques associés à cette expansion. Vous allez vous baser sur les données économiques réelles des années 2020 à 2023, extraites de sources telles que le Bureau of Economic Analysis (BEA), la Banque Mondiale, le Fonds Monétaire International (FMI) et le NASDAQ.",
+            "donnees_economiques": {
+              "etats_unis": {
+                "2020": {
+                  "PIB": -3.4,
+                  "chomage": 8.1,
+                  "inflation": 1.4,
+                  "taux_interet": 0.9,
+                  "indice_boursier": 18,
+                  "cours_matieres_premieres": -15
+                },
+                "2021": {
+                  "PIB": 5.7,
+                  "chomage": 5.4,
+                  "inflation": 4.7,
+                  "taux_interet": 1.5,
+                  "indice_boursier": 25,
+                  "cours_matieres_premieres": 20
+                },
+                "2022": {
+                  "PIB": 2.1,
+                  "chomage": 3.7,
+                  "inflation": 8.0,
+                  "taux_interet": 3.0,
+                  "indice_boursier": -12,
+                  "cours_matieres_premieres": 30
+                },
+                "2023": {
+                  "PIB": 1.9,
+                  "chomage": 3.5,
+                  "inflation": 5.5,
+                  "taux_interet": 3.4,
+                  "indice_boursier": 4,
+                  "cours_matieres_premieres": -10
+                }
+              },
+              "amerique_latine": {
+                "2020": {
+                  "PIB": -6.8,
+                  "chomage": 10.1,
+                  "inflation": 5.2,
+                  "taux_interet": 1.8,
+                  "indice_boursier": 22,
+                  "cours_matieres_premieres": -12
+                },
+                "2021": {
+                  "PIB": 6.2,
+                  "chomage": 9.2,
+                  "inflation": 6.8,
+                  "taux_interet": 3.2,
+                  "indice_boursier": 18,
+                  "cours_matieres_premieres": 22
+                },
+                "2022": {
+                  "PIB": 3.8,
+                  "chomage": 8.4,
+                  "inflation": 8.3,
+                  "taux_interet": 5.0,
+                  "indice_boursier": -8,
+                  "cours_matieres_premieres": 28
+                },
+                "2023": {
+                  "PIB": 2.6,
+                  "chomage": 7.9,
+                  "inflation": 7.0,
+                  "taux_interet": 4.7,
+                  "indice_boursier": 6,
+                  "cours_matieres_premieres": -6
+                }
+              }
+            },
+            "sources": [
+              "Bureau of Economic Analysis (BEA)",
+              "Banque Mondiale",
+              "Fonds Monétaire International (FMI)",
+              "NASDAQ",
+              "S&P 500 (États-Unis)",
+              "Bovespa (Amérique latine)"
+            ],
+            "taches": [
+              "Vous êtes chargé de réaliser une analyse macro-économique pour Apple Inc. Vous devez identifier la phase actuelle du cycle économique, évaluer les indicateurs économiques et financiers pertinents et présenter vos résultats de manière claire et argumentée."
+            ],
+            "criteres": [
+              "Identification correcte de la phase actuelle du cycle économique.",
+              "Prédiction de la phase future du cycle économique.",
+              "Restitution claire et argumentée des résultats."
+            ],
+            "questions": [
+              "Quelle est la phase actuelle du cycle économique dans laquelle se trouve la société Apple ? Effectuez une analyse comparative à l'aide de tableaux des indicateurs économiques des deux régions.",
+              "Quels indicateurs avancés Apple Inc. devrait-elle suivre pour prédire la phase future du cycle économique ?",
+              "Quels sont les risques et opportunités associés à l'expansion aux États-Unis et en Amérique latine ? Représentez les résultats sous forme de tableau comparatif des risques et opportunités dans chaque région.",
+              "Comment Apple Inc. devrait-elle présenter ses résultats ? Fournissez une synthèse des résultats avec des recommandations."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

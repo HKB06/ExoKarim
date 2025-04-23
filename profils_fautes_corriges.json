@@ -1,0 +1,382 @@
+{
+  "profil_1": {
+    "nom": "Perfectionniste fatiguable",
+    "base_rate": {
+      "accent_oublie": 0.03,
+      "homophone": 0.02,
+      "touche_adj": 0.01,
+      "liaison_oubliee": 0.01,
+      "fautes_d_accord": 0.03
+    },
+    "fatigue_sensibility": 2.0,
+    "mots_a_risque": [
+      "a",
+      "ou",
+      "la",
+      "leur",
+      "c'est",
+      "mais"
+    ],
+    "repetition_faute": 0.5
+  },
+  "profil_2": {
+    "nom": "Distrait rapide",
+    "base_rate": {
+      "accent_oublie": 0.08,
+      "homophone": 0.06,
+      "touche_adj": 0.04,
+      "liaison_oubliee": 0.03,
+      "fautes_d_accord": 0.07
+    },
+    "fatigue_sensibility": 1.2,
+    "mots_a_risque": [
+      "que",
+      "sa",
+      "se",
+      "a",
+      "des",
+      "est"
+    ],
+    "repetition_faute": 0.8
+  },
+  "profil_3": {
+    "nom": "Sérieux mais orthographe fragile",
+    "base_rate": {
+      "accent_oublie": 0.1,
+      "homophone": 0.05,
+      "touche_adj": 0.02,
+      "liaison_oubliee": 0.01,
+      "fautes_d_accord": 0.08
+    },
+    "fatigue_sensibility": 1.5,
+    "mots_a_risque": [
+      "à",
+      "été",
+      "leur",
+      "ces",
+      "ses"
+    ],
+    "repetition_faute": 0.6
+  },
+  "profil_4": {
+    "nom": "Touche maladroite",
+    "base_rate": {
+      "accent_oublie": 0.02,
+      "homophone": 0.01,
+      "touche_adj": 0.09,
+      "liaison_oubliee": 0.02,
+      "fautes_d_accord": 0.01
+    },
+    "fatigue_sensibility": 0.8,
+    "mots_a_risque": [
+      "et",
+      "de",
+      "le",
+      "du"
+    ],
+    "repetition_faute": 0.3
+  },
+  "profil_5": {
+    "nom": "Confond les sons",
+    "base_rate": {
+      "accent_oublie": 0.06,
+      "homophone": 0.12,
+      "touche_adj": 0.01,
+      "liaison_oubliee": 0.01,
+      "fautes_d_accord": 0.05
+    },
+    "fatigue_sensibility": 1.0,
+    "mots_a_risque": [
+      "sa",
+      "ça",
+      "ces",
+      "ses",
+      "son",
+      "sont"
+    ],
+    "repetition_faute": 0.7
+  },
+  "profil_6": {
+    "nom": "Fatigué chronique",
+    "base_rate": {
+      "accent_oublie": 0.07,
+      "homophone": 0.07,
+      "touche_adj": 0.05,
+      "liaison_oubliee": 0.02,
+      "fautes_d_accord": 0.06
+    },
+    "fatigue_sensibility": 2.5,
+    "mots_a_risque": [
+      "à",
+      "quand",
+      "où",
+      "dont",
+      "être"
+    ],
+    "repetition_faute": 0.6
+  },
+  "profil_7": {
+    "nom": "Hyperactif",
+    "base_rate": {
+      "accent_oublie": 0.05,
+      "homophone": 0.03,
+      "touche_adj": 0.05,
+      "liaison_oubliee": 0.04,
+      "fautes_d_accord": 0.02
+    },
+    "fatigue_sensibility": 1.8,
+    "mots_a_risque": [
+      "le",
+      "du",
+      "un",
+      "par",
+      "de"
+    ],
+    "repetition_faute": 0.2
+  },
+  "profil_8": {
+    "nom": "Logique mais distrait",
+    "base_rate": {
+      "accent_oublie": 0.04,
+      "homophone": 0.07,
+      "touche_adj": 0.01,
+      "liaison_oubliee": 0.03,
+      "fautes_d_accord": 0.05
+    },
+    "fatigue_sensibility": 1.6,
+    "mots_a_risque": [
+      "on",
+      "ont",
+      "ces",
+      "ses",
+      "c'est",
+      "s'est"
+    ],
+    "repetition_faute": 0.7
+  },
+  "profil_9": {
+    "nom": "Bonne volonté",
+    "base_rate": {
+      "accent_oublie": 0.06,
+      "homophone": 0.05,
+      "touche_adj": 0.04,
+      "liaison_oubliee": 0.01,
+      "fautes_d_accord": 0.05
+    },
+    "fatigue_sensibility": 1.1,
+    "mots_a_risque": [
+      "mais",
+      "et",
+      "ou",
+      "donc",
+      "or"
+    ],
+    "repetition_faute": 0.3
+  },
+  "profil_10": {
+    "nom": "Trop rapide au clavier",
+    "base_rate": {
+      "accent_oublie": 0.01,
+      "homophone": 0.01,
+      "touche_adj": 0.12,
+      "liaison_oubliee": 0.01,
+      "fautes_d_accord": 0.01
+    },
+    "fatigue_sensibility": 1.0,
+    "mots_a_risque": [
+      "ne",
+      "pas",
+      "est",
+      "sont",
+      "dans"
+    ],
+    "repetition_faute": 0.4
+  },
+  "profil_11": {
+    "nom": "Rédacteur scolaire",
+    "base_rate": {
+      "accent_oublie": 0.04,
+      "homophone": 0.03,
+      "touche_adj": 0.02,
+      "liaison_oubliee": 0.01,
+      "fautes_d_accord": 0.03
+    },
+    "fatigue_sensibility": 0.9,
+    "mots_a_risque": [
+      "cela",
+      "ceci",
+      "ainsi",
+      "par",
+      "contre"
+    ],
+    "repetition_faute": 0.2
+  },
+  "profil_12": {
+    "nom": "Anxieux orthographique",
+    "base_rate": {
+      "accent_oublie": 0.09,
+      "homophone": 0.08,
+      "touche_adj": 0.01,
+      "liaison_oubliee": 0.02,
+      "fautes_d_accord": 0.07
+    },
+    "fatigue_sensibility": 2.0,
+    "mots_a_risque": [
+      "à",
+      "é",
+      "è",
+      "eux",
+      "ces"
+    ],
+    "repetition_faute": 0.5
+  },
+  "profil_13": {
+    "nom": "Mélange oral/écrit",
+    "base_rate": {
+      "accent_oublie": 0.05,
+      "homophone": 0.08,
+      "touche_adj": 0.02,
+      "liaison_oubliee": 0.05,
+      "fautes_d_accord": 0.04
+    },
+    "fatigue_sensibility": 1.5,
+    "mots_a_risque": [
+      "sa",
+      "c'est",
+      "quand",
+      "alors",
+      "donc"
+    ],
+    "repetition_faute": 0.6
+  },
+  "profil_14": {
+    "nom": "Rédacteur automatique",
+    "base_rate": {
+      "accent_oublie": 0.02,
+      "homophone": 0.01,
+      "touche_adj": 0.02,
+      "liaison_oubliee": 0.01,
+      "fautes_d_accord": 0.01
+    },
+    "fatigue_sensibility": 0.5,
+    "mots_a_risque": [
+      "de",
+      "du",
+      "est",
+      "et"
+    ],
+    "repetition_faute": 0.1
+  },
+  "profil_15": {
+    "nom": "Fautes de négligence",
+    "base_rate": {
+      "accent_oublie": 0.1,
+      "homophone": 0.05,
+      "touche_adj": 0.03,
+      "liaison_oubliee": 0.03,
+      "fautes_d_accord": 0.06
+    },
+    "fatigue_sensibility": 2.2,
+    "mots_a_risque": [
+      "à",
+      "le",
+      "des",
+      "plus",
+      "moins"
+    ],
+    "repetition_faute": 0.7
+  },
+  "profil_16": {
+    "nom": "Esprit brouillon",
+    "base_rate": {
+      "accent_oublie": 0.06,
+      "homophone": 0.07,
+      "touche_adj": 0.05,
+      "liaison_oubliee": 0.06,
+      "fautes_d_accord": 0.05
+    },
+    "fatigue_sensibility": 2.1,
+    "mots_a_risque": [
+      "que",
+      "qui",
+      "dont",
+      "ou",
+      "ce"
+    ],
+    "repetition_faute": 0.6
+  },
+  "profil_17": {
+    "nom": "Orthographe intuitive",
+    "base_rate": {
+      "accent_oublie": 0.07,
+      "homophone": 0.08,
+      "touche_adj": 0.01,
+      "liaison_oubliee": 0.02,
+      "fautes_d_accord": 0.04
+    },
+    "fatigue_sensibility": 1.4,
+    "mots_a_risque": [
+      "é",
+      "è",
+      "à",
+      "ou",
+      "ont"
+    ],
+    "repetition_faute": 0.4
+  },
+  "profil_18": {
+    "nom": "Profil d’élève moyen",
+    "base_rate": {
+      "accent_oublie": 0.05,
+      "homophone": 0.05,
+      "touche_adj": 0.05,
+      "liaison_oubliee": 0.05,
+      "fautes_d_accord": 0.05
+    },
+    "fatigue_sensibility": 1.0,
+    "mots_a_risque": [
+      "que",
+      "où",
+      "quand",
+      "dont"
+    ],
+    "repetition_faute": 0.5
+  },
+  "profil_19": {
+    "nom": "Profil littéraire",
+    "base_rate": {
+      "accent_oublie": 0.03,
+      "homophone": 0.02,
+      "touche_adj": 0.02,
+      "liaison_oubliee": 0.01,
+      "fautes_d_accord": 0.01
+    },
+    "fatigue_sensibility": 0.5,
+    "mots_a_risque": [
+      "ainsi",
+      "cependant",
+      "néanmoins",
+      "or"
+    ],
+    "repetition_faute": 0.1
+  },
+  "profil_20": {
+    "nom": "Profil scientifique",
+    "base_rate": {
+      "accent_oublie": 0.02,
+      "homophone": 0.03,
+      "touche_adj": 0.03,
+      "liaison_oubliee": 0.01,
+      "fautes_d_accord": 0.02
+    },
+    "fatigue_sensibility": 0.7,
+    "mots_a_risque": [
+      "car",
+      "donc",
+      "si",
+      "cela",
+      "par"
+    ],
+    "repetition_faute": 0.2
+  }
+}

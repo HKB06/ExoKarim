@@ -1,0 +1,299 @@
+{
+  "Partie 1 – Étude financière et économique (DS1)": {
+    "contexte": "Niveau : Master en Finance de Marché – Trading\nProgramme Bourse & Trading Expert : Gestion de portefeuille financier (Bloc 2)\nPartie 1 : Étude financière et économique\n\nDevoir surveillé 1\n\nETUDE DE CAS : Stratégie de Développement de la Société Apple Inc.\n\nContexte :\nApple Inc. est l'une des entreprises les plus emblématiques du secteur technologique. Fondée en 1976, la société s'est imposée comme un leader dans la conception de produits électroniques grand public et de logiciels innovants. Après plusieurs années de croissance continue, Apple cherche à diversifier ses sources de revenus et à pénétrer de nouveaux marchés, notamment en Amérique latine et aux États-Unis. Avant de prendre cette décision stratégique, la direction souhaite réaliser une analyse macro-économique afin d’évaluer les opportunités et les risques associés à cette expansion.\n\nVous allez vous baser sur les données économiques réelles des années 2020 à 2023, extraites de sources telles que le Bureau of Economic Analysis (BEA), la Banque Mondiale, le Fonds Monétaire International (FMI) et le NASDAQ.\n\nDonnées économiques récentes pour les États-Unis et l'Amérique latine (2020-2023) :\n\nIndicateurs\tÉtats-Unis 2020\tÉtats-Unis 2021\tÉtats-Unis 2022\tÉtats-Unis 2023\tAmérique latine 2020\tAmérique latine 2021\tAmérique latine 2022\tAmérique latine 2023\nCroissance du PIB (%)\t-3,4 %\t5,7 %\t2,1 %\t1,9 %\t-6,8 %\t6,2 %\t3,8 %\t2,6 %\nTaux de chômage (%)\t8,1 %\t5,4 %\t3,7 %\t3,5 %\t10,1 %\t9,2 %\t8,4 %\t7,9 %\nInflation (%)\t1,4 %\t4,7 %\t8,0 %\t5,5 %\t5,2 %\t6,8 %\t8,3 %\t7,0 %\nTaux d'intérêt à long terme\t0,9 %\t1,5 %\t3,0 %\t3,4 %\t1,8 %\t3,2 %\t5,0 %\t4,7 %\nIndice boursier (%)\t+18 % (S&P 500)\t+25 % (S&P 500)\t-12 % (S&P 500)\t+4 % (S&P 500)\t+22 % (Bovespa)\t+18 % (Bovespa)\t-8 % (Bovespa)\t+6 % (Bovespa)\nCours des matières premières\t-15 %\t+20 %\t+30 %\t-10 %\t-12 %\t+22 %\t+28 %\t-6 %\n\nSources de données :\n• Bureau of Economic Analysis (BEA) pour les données sur le PIB et le taux de chômage aux États-Unis.\n• Banque Mondiale pour les indicateurs mondiaux de croissance économique et d'inflation.\n• Fonds Monétaire International (FMI) pour les perspectives économiques mondiales.\n• Indices boursiers : S&P 500 (États-Unis), Bovespa (Brésil/Amérique latine).",
+    "taches": "Vous êtes chargé de réaliser une analyse macro-économique pour Apple Inc. Vous devez identifier la phase actuelle du cycle économique, évaluer les indicateurs économiques et financiers pertinents et présenter vos résultats de manière claire et argumentée.",
+    "criteres": "• Identification correcte de la phase actuelle du cycle économique.\n• Prédiction de la phase future du cycle économique.\n• Restitution claire et argumentée des résultats.",
+    "questions": [
+      "1. Quelle est la phase actuelle du cycle économique dans laquelle se trouve la société Apple ? Effectuez une analyse comparative à l'aide de tableaux des indicateurs économiques des deux régions.",
+      "2. Quels indicateurs avancés Apple Inc. devrait-elle suivre pour prédire la phase future du cycle économique ?",
+      "3. Quels sont les risques et opportunités associés à l'expansion aux États-Unis et en Amérique latine ? Représentez les résultats sous forme de tableau comparatif des risques et opportunités dans chaque région.",
+      "4. Comment Apple Inc. devrait-elle présenter ses résultats ? Fournissez une synthèse des résultats avec des recommandations."
+    ]
+  },
+  {
+    "Partie 2 – Mise en place d’une stratégie d’allocation d’actifs (DS2)": {
+      "contexte": "Niveau : Master en Finance de Marché – Trading\nProgramme Bourse & Trading Expert : Gestion de portefeuille financier (Bloc 2)\nPartie 2 : Mise en place d’une stratégie d’allocation d’actifs\n\nDevoir surveillé 2\n\nETUDE DE CAS : Évaluation de l'Investissement dans les secteurs porteurs.\n\nUn investisseur potentiel a sollicité l'entreprise de conseil SIGMA pour obtenir des conseils sur un investissement sectoriel. Cet investisseur a identifié quatre secteurs : l'immobilier, la technologie, l'énergie, et la santé. Votre tâche est de réaliser une analyse fondamentale et une analyse graphique de chaque secteur, en tenant compte des indicateurs économiques et techniques spécifiques, pour conseiller l'investisseur sur les meilleures opportunités.\n\nVoici les données économiques et les données sur les indicateurs techniques demandées pour chaque région des entreprises listées, couvrant les années 2022, 2023, et 2024 :\n\n1. Vonovia SE (Allemagne) – Immobilier\nIndicateurs macroéconomiques :\n• Croissance du PIB :\n  - 2022 : 1,8%\n  - 2023 : 0,6%\n  - 2024 (prévisions) : 1,2%\n• Taux d'inflation :\n  - 2022 : 7,9%\n  - 2023 : 6,3%\n  - 2024 (prévisions) : 4,5%\n• Indice boursier (DAX 40) :\n  - 2022 : -12,3%\n  - 2023 : +23,8%\n  - 2024 (prévisions) : +7,5%\n• Taux d'intérêt directeur BCE :\n  - 2022 : 0,00%\n  - 2023 : 4,00%\n  - 2024 : 4,00%\nIndicateurs techniques :\n• MACD : 0,15 / 0,12 / 0,03\n• RSI : 53,6\n• Volume : 2,8M (moyenne), 3,2M le 27 sept 2024\n\n2. Tata Consultancy Services (Inde) – Technologie\nIndicateurs macroéconomiques :\n• Croissance du PIB : 7,2% / 5,9% / 6,3%\n• Inflation : 6,7% / 5,5% / 5,0%\n• NSE Nifty 50 : -5,8% / +8,9% / +10,2%\n• Taux RBI : 4,00% / 6,50% / 6,25%\nIndicateurs techniques :\n• MACD : -0,07 / -0,05 / -0,02\n• RSI : 46,5\n• Volume : 1,25M (moyenne), 1,15M le 27 sept 2024\n\n3. Suncor Energy (Canada) – Énergie\nIndicateurs macroéconomiques :\n• PIB : 3,6% / 1,9% / 2,2%\n• Inflation : 6,8% / 3,4% / 2,8%\n• TSX Composite : -8,0% / +16,3% / +5,0%\n• Taux Banque du Canada : 4,50% / 5,00% / 4,75%\nIndicateurs techniques :\n• MACD : 0,10 / 0,08 / 0,02\n• RSI : 62,8\n• Volume : 5,4M (moyenne), 4,9M le 27 sept 2024\n\n4. Sanofi (France) – Santé\nIndicateurs macroéconomiques :\n• PIB : 2,6% / 0,8% / 1,5%\n• Inflation : 5,9% / 4,2% / 3,0%\n• CAC 40 : -9,0% / +16,7% / +6,0%\n• Taux BCE : 0,00% / 4,00% / 4,00%\nIndicateurs techniques :\n• MACD : -0,12 / -0,14 / 0,02\n• RSI : 48,7\n• Volume : 1,9M (moyenne), 2,1M le 27 sept 2024\n\nSources économiques et techniques :\n- Eurostat, BCE, Bundesbank, Deutsche Börse, RBI, Fin Ministry, NSE, Statistique Canada, TSX, INSEE, Banque de France, Euronext Paris\n- TradingView, Yahoo Finance, Bloomberg, Trading Economics",
+      "taches": "Réalisez une analyse macroéconomique et graphique sectorielle comparative. Appliquez des outils fondamentaux et techniques pour chaque entreprise. Proposez une stratégie sectorielle fondée sur les tendances 2022-2024.",
+      "questions": [
+        "1. Analysez les tendances des indicateurs macroéconomiques et leur évolution dans les différentes régions. Effectuer une analyse graphique comparative pour le taux de croissance du PIB dans les différentes régions. Que peut-on conclure ?",
+        "2. En se basant sur les analyses de la première question, déterminez la phase actuelle du cycle économique dans les régions concernées.",
+        "3. Réalisez une analyse fondamentale sectorielle en comparant les 4 secteurs : immobilier, technologie, énergie et santé.",
+        "4. Montrez comment les quatre secteurs sont influencés par les indicateurs macroéconomiques actuels.",
+        "5. Parmi les quatre secteurs (immobilier, technologie, énergie et santé), lequel semble le plus prometteur pour un investissement en 2024-2025 et pourquoi ? Appuyez votre analyse sur les données économiques disponibles ainsi que sur les tendances sectorielles mondiales.",
+        "6. Pour chaque entreprise, utilisez les indicateurs techniques fournis (MACD, RSI, volumes d’échange) pour évaluer la tendance actuelle des actions.",
+        "7. Compte tenu de l'analyse fondamentale solide et des indicateurs techniques favorables, recommandez une stratégie d’investissement pour cet investisseur potentiel."
+      ]
+    },
+  }
+  {
+    "Partie 3 – Identification des potentiels d’investissements (Sélection de titres et obligations) (DS3)": {
+      "contexte": "Niveau : Master en Finance de Marché – Trading\nProgramme Bourse & Trading Expert : Gestion de portefeuille financier (Bloc 2)\nPartie 3 : Identification des potentiels d’investissements (Sélection de titres et obligations)\n\nDevoir surveillé 3\n\nETUDE DE CAS : Évaluation et Sélection de Titres pour un Investissement dans le Secteur de la Santé\n\nContexte :\nVous travaillez en tant qu'analyste financier pour un fonds d'investissement. Votre directeur vous a demandé d'évaluer trois entreprises du secteur de la santé et de proposer une stratégie d'investissement pour un nouveau client, Mme Durand, qui a un profil de risque modéré.",
+      "entreprises": [
+        {
+          "nom": "MedicoTech",
+          "secteur": "Dispositifs médicaux",
+          "bénéfices_nets": "120 millions €",
+          "capitaux_propres": "1 000 millions €",
+          "cours_action": "50 €",
+          "bpa": "6 €",
+          "actifs_courants": "180 millions €",
+          "passifs_courants": "90 millions €",
+          "dividende": "2,5 €",
+          "croissance_dividende": "5,5%",
+          "coût_capital": "10.5%",
+          "positionnement": "Leader dans les dispositifs médicaux innovants pour les maladies cardiovasculaires",
+          "innovations": "Nouveau stent révolutionnaire attendu l'année prochaine",
+          "réputation": "Note de 4,6/5",
+          "environnement": "Réduction des déchets plastiques",
+          "éthique": "Certification ISO 13485",
+          "gouvernance": "Conseil composé d’experts médicaux",
+          "tendance_prix": "+18% sur 12 mois",
+          "volume_mensuel": "1,3 M",
+          "volume_moyen": "1,1 M",
+          "rsi": "67",
+          "macd": "1,8 / 0,9",
+          "profil_risque": "Risque modéré",
+          "potentiel_croissance": "Fort",
+          "bêta": "1,3"
+        },
+        {
+          "nom": "HealthPlus",
+          "secteur": "Chaîne de pharmacies",
+          "bénéfices_nets": "150 millions €",
+          "capitaux_propres": "1 200 millions €",
+          "cours_action": "75 €",
+          "bpa": "7,5 €",
+          "actifs_courants": "220 millions €",
+          "passifs_courants": "110 millions €",
+          "dividende": "3,5 €",
+          "croissance_dividende": "6,5%",
+          "coût_capital": "11%",
+          "positionnement": "Acteur clé dans la distribution de médicaments",
+          "innovations": "Services de téléconsultation médicale",
+          "réputation": "Note de 4,4/5",
+          "environnement": "Programme de recyclage",
+          "éthique": "Gestion des données médicales",
+          "gouvernance": "Comité santé et sécurité",
+          "tendance_prix": "+16% sur 12 mois",
+          "volume_mensuel": "2,2 M",
+          "volume_moyen": "1,9 M",
+          "rsi": "72",
+          "macd": "2,1 / 1,3",
+          "profil_risque": "Risque modéré",
+          "potentiel_décote": "Pharmacies en ligne",
+          "bêta": "1,6"
+        },
+        {
+          "nom": "CureSys",
+          "secteur": "Recherche pharmaceutique",
+          "bénéfices_nets": "90 millions €",
+          "capitaux_propres": "900 millions €",
+          "cours_action": "45 €",
+          "bpa": "4,5 €",
+          "actifs_courants": "120 millions €",
+          "passifs_courants": "50 millions €",
+          "dividende": "2 €",
+          "croissance_dividende": "4,5%",
+          "coût_capital": "9,5%",
+          "positionnement": "Recherche sur les maladies rares",
+          "innovations": "Traitement en phase clinique",
+          "réputation": "Note de 4,1/5",
+          "environnement": "Recherche écoresponsable",
+          "éthique": "Pratiques transparentes",
+          "gouvernance": "Comité de surveillance",
+          "tendance_prix": "+12% sur 12 mois",
+          "volume_mensuel": "0,9 M",
+          "volume_moyen": "0,7 M",
+          "rsi": "58",
+          "macd": "0,7 / 0,4",
+          "profil_risque": "Modéré, dépend essais cliniques",
+          "potentiel_croissance": "Stable, dépend réglementations",
+          "bêta": "1,1"
+        }
+      ],
+      "données_modèles": {
+        "taux_sans_risque": "3%",
+        "rendement_marché": "8%"
+      },
+      "criteres": {
+        "Analyse Fondamentale": ["Ratio P/E", "Ratio de liquidité", "ROE"],
+        "Facteurs qualitatifs": ["Positionnement", "Innovations", "Avis consommateurs"],
+        "ESG": ["Politique environnementale", "Pratiques éthiques", "Gouvernance"],
+        "Analyse technique": ["Tendance prix", "Volume", "RSI", "MACD"],
+        "Risques et potentiels": ["Profil de risque", "Croissance ou décote"]
+      },
+      "questions": [
+        "I. Évaluer chacune des trois entreprises en utilisant les critères mentionnés ci-dessus.",
+        "II. Utiliser les modèles Gordon-Shapiro et MEDAF pour estimer la valeur intrinsèque des entreprises.",
+        "III. Proposer une stratégie de portefeuille pour Mme Durand en prenant en compte son profil de risque modéré.",
+        "IV. Justifier votre sélection des titres et la répartition du portefeuille."
+      ]
+    }
+  }
+  {
+    "Partie 4 – Sélection des obligations et optimisation de la rentabilité (DS4)": {
+      "contexte": "Niveau : Master en Finance de Marché – Trading\nProgramme Bourse & Trading Expert : Gestion de portefeuille financier (Bloc 2)\nPartie 4 : Sélection des obligations optimisation de la rentabilité (choix des obligations pour maximiser les rendements)\n\nDevoir surveillé 4\n\nETUDE DE CAS : Optimisation du portefeuille de valeurs mobilières pour un investisseur particulier\n\nContexte :\nMonsieur Dupont, un investisseur particulier français, dispose d'un portefeuille diversifié d'actions, d'obligations et de fonds indiciels. Il est préoccupé par les récents changements sur les marchés financiers et souhaite optimiser son portefeuille. Sa tolérance au risque est modérée et il est particulièrement intéressé par la stabilité à long terme et une croissance modérée de son capital.",
+      "portefeuille_actuel": {
+        "actions_tech": "Apple, Microsoft, Google (40%)",
+        "obligations_etat": "Obligations du Trésor US à 10 ans (25%)",
+        "actions_energie": "TotalEnergies, Chevron (15%)",
+        "fonds_indiciel": "SPDR S&P 500 ETF Trust (10%)",
+        "liquidités": "10%"
+      },
+      "données_financières": {
+        "actions_tech": {
+          "Apple": {
+            "cours_action": "174,14 $ / 158,82 €",
+            "dpa": "0,92 $ / 0,84 €",
+            "pe": "27,92",
+            "bénéfices_nets": "99,8 Mds $ / 91,03 Mds €",
+            "fcf": "90 Mds $ / 82,02 Mds €",
+            "croissance_dividendes": "4%",
+            "coût_capital": "7%",
+            "capitaux_propres": "65 Mds $ / 59,29 Mds €",
+            "nombre_actions": "16 Mds"
+          },
+          "Microsoft": {
+            "cours_action": "338,10 $ / 308,09 €",
+            "dpa": "2,72 $ / 2,48 €",
+            "pe": "35,38 (USD) / 35,24 (EUR)",
+            "bénéfices_nets": "71,93 Mds $ / 65,64 Mds €",
+            "fcf": "60 Mds $ / 54,69 Mds €",
+            "croissance_dividendes": "5%",
+            "coût_capital": "7,5%",
+            "capitaux_propres": "140 Mds $ / 127,05 Mds €",
+            "nombre_actions": "7,5 Mds"
+          },
+          "Google": {
+            "cours_action": "143,90 $ / 131,62 €",
+            "dpa": "0,20 $ / 0,18 €",
+            "pe": "17,13 (USD) / 17,19 (EUR)",
+            "bénéfices_nets": "21 Mds $ / 19,16 Mds €",
+            "fcf": "20 Mds $ / 18,29 Mds €",
+            "croissance_dividendes": "9%",
+            "coût_capital": "10%",
+            "capitaux_propres": "40 Mds $ / 36,48 Mds €",
+            "nombre_actions": "2,5 Mds"
+          }
+        },
+        "obligations_etat": {
+          "montant_nominal": "100 000 $ / 91 187 €",
+          "prix_actuel": "101 000 $ / 92 243 €",
+          "taux_actualisation": "1,5%",
+          "échéance": "10 ans",
+          "coupon_annuel": "1 500 $ / 1 368 €",
+          "total_coupons": "15 000 $ / 13 675 €"
+        },
+        "energie": {
+          "TotalEnergies": {
+            "cours_action": "56,74 €",
+            "dpa": "3,16 €",
+            "pe": "6,22 (USD) / 8,45 (EUR)",
+            "bénéfices_nets": "18,79 Mds €",
+            "fcf": "20 Mds €",
+            "croissance_dividendes": "4%",
+            "coût_capital": "7%",
+            "capitaux_propres": "110 Mds €",
+            "nombre_actions": "2,8 Mds"
+          },
+          "Chevron": {
+            "cours_action": "162,82 $ / 148,23 €",
+            "dpa": "5,68 $ / 5,19 €",
+            "pe": "10,14 (USD) / 10,18 (EUR)",
+            "bénéfices_nets": "30,40 Mds $ / 27,69 Mds €",
+            "fcf": "30 Mds $ / 27,34 Mds €",
+            "croissance_dividendes": "3%",
+            "coût_capital": "6%",
+            "capitaux_propres": "100 Mds $ / 91,04 Mds €",
+            "nombre_actions": "1,9 Mds"
+          }
+        },
+        "fonds_indiciel": {
+          "nom": "SPDR S&P 500 ETF Trust",
+          "prix_part": "430 $ / 392 €",
+          "dpa": "5,25 $ / 4,78 €",
+          "rendement_dividendes": "1,22%",
+          "croissance_dividendes": "6,5%",
+          "perf_5ans": "10,1%",
+          "perf_10ans": "11,2%",
+          "volatilité": "15%"
+        }
+      },
+      "données_sources": [
+        "Yahoo Finance (Apple, Microsoft, Google, Chevron, TotalEnergies)",
+        "Sites investisseurs officiels : investor.apple.com, microsoft.com/investor, abc.xyz/investor",
+        "US Treasury, Bloomberg (Obligations)",
+        "SPDR S&P 500 ETF Trust, Morningstar"
+      ],
+      "travail_a_faire": [
+        "I. Analyser la cohérence du portefeuille actuel de M. Dupont avec son profil de risque en se basant sur les critères d’évaluation ci-dessous.",
+        "II. Évaluer le portefeuille en utilisant des indicateurs financiers tout en tenant compte de la zone géographique dans laquelle l’entreprise émettrice des titres se trouve et le taux de change. Donner une conclusion générale sur l’évaluation de ce portefeuille.",
+        "III. Traiter les points faibles de ce portefeuille et donner des recommandations pour l’améliorer.",
+        "IV. Proposer une stratégie d'optimisation du portefeuille."
+      ],
+      "criteres": [
+        "1. Analyse quantitative et qualitative",
+        "2. Facteurs ESG",
+        "3. Analyse des ratios financiers et de la valeur intrinsèque selon Gordon-Shapiro, en tenant compte du contexte géopolitique et du risque de change",
+        "4. Adéquation au profil de risque",
+        "5. Stratégie d’optimisation du portefeuille"
+      ],
+      "contexte_geopolitique": [
+        "Exposition géographique : 100% États-Unis (S&P 500)",
+        "Taux de change USD/EUR actuel : 1,0969",
+        "Risques géopolitiques :",
+        "- Politique monétaire US",
+        "- Tensions USA/Chine",
+        "- Régulation tech US",
+        "- Inflation persistante et hausses des taux (Fed)"
+      ]
+    }
+  }{
+    "Partie 5 – Développement commercial et risk profiling (DS5)": {
+      "contexte": "Niveau : Master en Finance de Marché – Trading\nProgramme Bourse & Trading Expert : Gestion de portefeuille financier (Bloc 2)\nPartie 6 : Développement commercial et risk profiling (Croissance des affaires et profilage de risque)\n\nDevoir surveillé 5\n\nETUDE DE CAS : Optimisation d'un Portefeuille d'Investissement pour M. Dupont\n\nContexte :\nM. Dupont est un entrepreneur à la retraite âgé de 65 ans. Il dispose d'un capital de 500 000 € qu'il souhaite investir en bourse. Il a une tolérance au risque modérée et un horizon d'investissement de 5 à 10 ans. Il est particulièrement intéressé par des investissements respectant des critères éthiques et environnementaux.",
+      "objectifs": [
+        "Évaluer les besoins et les connaissances financières de M. Dupont à l'aide d'un questionnaire.",
+        "Proposer un portefeuille d'investissement boursier adapté à son profil.",
+        "Justifier les recommandations d'investissement en tenant compte des critères réglementaires et éthiques."
+      ],
+      "partie_1_questionnaire": [
+        "1. Quelle est votre expérience en matière d'investissement boursier ?",
+        "2. Êtes-vous plus intéressé par la croissance du capital ou la génération de revenus ?",
+        "3. Avez-vous des préférences sectorielles pour votre investissement ?",
+        "4. Connaissez-vous les implications fiscales de vos investissements ?",
+        "5. Comment réagiriez-vous si votre portefeuille perdait 10 % de sa valeur ?"
+      ],
+      "partie_2_recommandations": {
+        "analyse_fondamentale": {
+          "répartition_portefeuille": {
+            "obligations_faible_risque": "40%",
+            "actions_ESG": "30%",
+            "ETF_fonds_indiciels": "20%",
+            "actifs_alternatifs": "10%"
+          },
+          "commentaire": "Les graphiques des cours des actions et des obligations choisies montrent une tendance haussière à long terme, ce qui est un bon signe pour l'investissement."
+        },
+        "respect_réglementations": "Toutes les recommandations respectent les réglementations imposées par l'AMF, ACPR, et ESMA. De plus, les produits financiers suggérés sont en conformité avec les normes éthiques et environnementales."
+      },
+      "partie_3_justification": [
+        "Les obligations à faible risque sont choisies en fonction de leur notation élevée par Standard & Poor’s, Fitch, et Moody’s.",
+        "Les actions respectant des critères éthiques et environnementaux sont sélectionnées en fonction de leur performance et de leur alignement avec les valeurs de M. Dupont.",
+        "Les ETF et les fonds indiciels offrent une diversification immédiate.",
+        "Les actifs alternatifs offrent un potentiel de rendement plus élevé, tout en étant moins corrélés avec les marchés financiers traditionnels."
+      ],
+      "modalités_evaluation": {
+        "mise_en_situation": "À partir d’un cas client, le candidat doit réaliser un questionnaire et formuler des recommandations d’investissements boursiers.",
+        "critères_evaluation": [
+          "Le questionnaire proposé permet de cerner les attentes du client en termes de rentabilité et de risque.",
+          "Les connaissances financières du client sont évaluées.",
+          "Le candidat s’assure de la compréhension par le client du lien entre rentabilité et risque.",
+          "Les produits d’investissement proposés par le candidat respectent le profil de risque du client.",
+          "Les recommandations d’investissement proposées respectent les normes déontologiques et du cadre légal applicable aux intermédiaires financiers défini par les régulateurs (AMF, ACPR, ESMA, etc...)."
+        ]
+      }
+    }
+  }
+  
+  
+  
+}
